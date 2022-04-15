@@ -1,0 +1,396 @@
+{
+  "accessors": [
+    {
+      "bufferView": 2,
+      "componentType": 5126,
+      "count": 14670,
+      "max": [
+        0.8145909905433655,
+        0.46493300795555115,
+        1.0
+      ],
+      "min": [
+        0.07345300167798996,
+        -0.46493300795555115,
+        -1.0
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 176040,
+      "componentType": 5126,
+      "count": 14670,
+      "max": [
+        0.9999440908432007,
+        1.0,
+        0.9999396204948425
+      ],
+      "min": [
+        -0.9999591112136841,
+        -0.9999998807907104,
+        -0.9999582171440125
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 3,
+      "componentType": 5126,
+      "count": 14670,
+      "max": [
+        1.0,
+        0.9996722340583801,
+        0.9999930262565613,
+        1.0
+      ],
+      "min": [
+        -1.0,
+        -0.9995602369308472,
+        -1.0,
+        -1.0
+      ],
+      "type": "VEC4"
+    },
+    {
+      "bufferView": 1,
+      "componentType": 5126,
+      "count": 14670,
+      "max": [
+        0.9948379993438721,
+        0.9980000257492065
+      ],
+      "min": [
+        0.0020000000949949026,
+        0.0020000000949949026
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 0,
+      "componentType": 5125,
+      "count": 60192,
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 352080,
+      "componentType": 5126,
+      "count": 14670,
+      "max": [
+        -0.07345300167798996,
+        0.46493300795555115,
+        1.0
+      ],
+      "min": [
+        -0.8145909905433655,
+        -0.46493300795555115,
+        -1.0
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 528120,
+      "componentType": 5126,
+      "count": 14670,
+      "max": [
+        0.9999591112136841,
+        1.0,
+        0.9999396204948425
+      ],
+      "min": [
+        -0.9999440908432007,
+        -0.9999998807907104,
+        -0.9999582171440125
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 3,
+      "byteOffset": 234720,
+      "componentType": 5126,
+      "count": 14670,
+      "max": [
+        1.0,
+        0.9996722340583801,
+        0.999993085861206,
+        1.0
+      ],
+      "min": [
+        -1.0,
+        -0.9995602965354919,
+        -1.0,
+        -1.0
+      ],
+      "type": "VEC4"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 117360,
+      "componentType": 5126,
+      "count": 14670,
+      "max": [
+        0.9948379993438721,
+        0.9980000257492065
+      ],
+      "min": [
+        0.0020000000949949026,
+        0.0020000000949949026
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 240768,
+      "componentType": 5125,
+      "count": 60192,
+      "type": "SCALAR"
+    }
+  ],
+  "asset": {
+    "extras": {
+      "author": "Geug (https://sketchfab.com/Geug)",
+      "license": "CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)",
+      "source": "https://sketchfab.com/3d-models/adidas-sport-shoes-half-dead-lowpoly-freebie-c163e3633c91454d9a00ace145ce5316",
+      "title": "Adidas Sport Shoes (Half Dead) LowPoly Freebie"
+    },
+    "generator": "Sketchfab-12.66.0",
+    "version": "2.0"
+  },
+  "bufferViews": [
+    {
+      "buffer": 0,
+      "byteLength": 481536,
+      "name": "floatBufferViews",
+      "target": 34963
+    },
+    {
+      "buffer": 0,
+      "byteLength": 234720,
+      "byteOffset": 481536,
+      "byteStride": 8,
+      "name": "floatBufferViews",
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteLength": 704160,
+      "byteOffset": 716256,
+      "byteStride": 12,
+      "name": "floatBufferViews",
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteLength": 469440,
+      "byteOffset": 1420416,
+      "byteStride": 16,
+      "name": "floatBufferViews",
+      "target": 34962
+    }
+  ],
+  "buffers": [
+    {
+      "byteLength": 1889856,
+      "uri": "scene.bin"
+    }
+  ],
+  "images": [
+    {
+      "uri": "textures/Right_baseColor.jpeg"
+    },
+    {
+      "uri": "textures/Right_metallicRoughness.png"
+    },
+    {
+      "uri": "textures/Right_normal.jpeg"
+    },
+    {
+      "uri": "textures/Left_baseColor.jpeg"
+    },
+    {
+      "uri": "textures/Left_metallicRoughness.png"
+    },
+    {
+      "uri": "textures/Left_normal.jpeg"
+    }
+  ],
+  "materials": [
+    {
+      "name": "Right",
+      "normalTexture": {
+        "index": 2
+      },
+      "pbrMetallicRoughness": {
+        "baseColorTexture": {
+          "index": 0
+        },
+        "metallicRoughnessTexture": {
+          "index": 1
+        }
+      }
+    },
+    {
+      "name": "Left",
+      "normalTexture": {
+        "index": 5
+      },
+      "pbrMetallicRoughness": {
+        "baseColorTexture": {
+          "index": 3
+        },
+        "metallicRoughnessTexture": {
+          "index": 4
+        }
+      }
+    }
+  ],
+  "meshes": [
+    {
+      "name": "defaultMaterial",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 1,
+            "POSITION": 0,
+            "TANGENT": 2,
+            "TEXCOORD_0": 3
+          },
+          "indices": 4,
+          "material": 1,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "name": "defaultMaterial",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 6,
+            "POSITION": 5,
+            "TANGENT": 7,
+            "TEXCOORD_0": 8
+          },
+          "indices": 9,
+          "material": 0,
+          "mode": 4
+        }
+      ]
+    }
+  ],
+  "nodes": [
+    {
+      "children": [
+        1
+      ],
+      "matrix": [
+        0.12198937684297562,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        2.7087082986149284e-17,
+        -0.12198937684297562,
+        0.0,
+        0.0,
+        0.12198937684297562,
+        2.7087082986149284e-17,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "name": "Sketchfab_model"
+    },
+    {
+      "children": [
+        2,
+        4
+      ],
+      "matrix": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        -4.371139006309477e-08,
+        0.999999999999999,
+        0.0,
+        0.0,
+        -0.999999999999999,
+        -4.371139006309477e-08,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "name": "Collada visual scene group"
+    },
+    {
+      "children": [
+        3
+      ],
+      "name": "Adidas_N2_R001"
+    },
+    {
+      "mesh": 0,
+      "name": "defaultMaterial"
+    },
+    {
+      "children": [
+        5
+      ],
+      "name": "Adidas_N2_R"
+    },
+    {
+      "mesh": 1,
+      "name": "defaultMaterial"
+    }
+  ],
+  "samplers": [
+    {
+      "magFilter": 9729,
+      "minFilter": 9987,
+      "wrapS": 10497,
+      "wrapT": 10497
+    }
+  ],
+  "scene": 0,
+  "scenes": [
+    {
+      "name": "Sketchfab_Scene",
+      "nodes": [
+        0
+      ]
+    }
+  ],
+  "textures": [
+    {
+      "sampler": 0,
+      "source": 0
+    },
+    {
+      "sampler": 0,
+      "source": 1
+    },
+    {
+      "sampler": 0,
+      "source": 2
+    },
+    {
+      "sampler": 0,
+      "source": 3
+    },
+    {
+      "sampler": 0,
+      "source": 4
+    },
+    {
+      "sampler": 0,
+      "source": 5
+    }
+  ]
+}
